@@ -4,7 +4,7 @@ CPPFLAGS = -Wall -Wextra -Werror  -std=c++98
 
 NAME = main
 
-SRC = 	main.cpp
+SRC = 	classe.cpp main.cpp
 	
 OBJ = $(SRC: .c=.o)
 
